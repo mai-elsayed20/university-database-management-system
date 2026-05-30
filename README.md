@@ -1,8 +1,8 @@
 University Database Management System
 
-This project was developed using Oracle SQL
+This project was developed using Oracle SQL.
 
-The system stores and manages information about students, instructors, faculties, majors, courses, sections, and transcripts
+The system stores and manages information about students, instructors, faculties, majors, courses, sections, and transcripts.
 
 What was implemented
 
@@ -22,5 +22,5 @@ SQL Topics Used
 - Date Functions
 
 Database Entities
-Faculty,Major,Student,Instructor,Course,Section and Transcript
+
 Faculty, Major, Student, Instructor, Course, Section, and Transcript.
